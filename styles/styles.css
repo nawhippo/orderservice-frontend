@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/*Navigation Bar */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #ffffff;
+}
+
+/*Home */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url('styles/canyon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.home-container h1 {
+    font-size: 48px;
+    color: #ffffff;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+/*Orders */
+.orders-container {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.orders-container h1 {
+    margin-bottom: 24px;
+}
+
+/*AddOrder */
+.add-order-container {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.add-order-container h1 {
+    margin-bottom: 24px;
+}
