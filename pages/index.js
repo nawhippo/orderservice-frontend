@@ -4,7 +4,6 @@ const Home = () => {
     return (
         <>
             <Container fluid className="home-container">
-
                 <br/>
                 <br/>
                 <br/>

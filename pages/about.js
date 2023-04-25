@@ -5,7 +5,7 @@ export default function About() {
             <br/>
             <h1>About Orderservice</h1>
             <p>Created by Nathan Whippo</p>
-            <p>This website is a frontend for the Orderservice API, which allows you to manage orders.</p>
+            <p>This website is a frontend for the Orderservice API, which, in theory, allows you to manage orders.</p>
         </div>
     )
 }
